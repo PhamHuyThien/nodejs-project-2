@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-project-2",
+  "version": "1.0.0",
+  "description": "project demo 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhamHuyThien/nodejs-project-2.git"
+  },
+  "keywords": [
+    "project",
+    "demo",
+    "2"
+  ],
+  "author": "Pham Huy Thien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhamHuyThien/nodejs-project-2/issues"
+  },
+  "homepage": "https://github.com/PhamHuyThien/nodejs-project-2#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
